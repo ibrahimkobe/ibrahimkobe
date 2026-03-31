@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/ibrahimkobe">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/ibrahim-abukobe/">Programmer</a>
 
-<!--
-**ibrahimkobe/ibrahimkobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Cisco Packet Tracer </b>
+  - [Basic Networking Topology]()
+  - [Switch Security Configuration]()
+  - []()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Data Structures and Algorithms </b>
+  - [Linear Search]()
+  - [Binary Search]()
+  - [Array List]()
+- <b>Adalo Web App </b>
+  - [StyleUp Website]()
+ 
+<h2>📜 Certifications:</h2>
+
+
+<h2>📲 Connect with me:</h2>
+<div style="display: flex; gap: 16px;">
+    <a href="https://www.linkedin.com/in/ibrahim-abukobe/">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="32" />
+    </a>
+</div>
