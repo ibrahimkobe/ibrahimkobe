@@ -8,7 +8,7 @@
   - []()
 
 - <b>Data Structures and Algorithms </b>
-  - [Linear Search]()
+  - [Linear Search](https://github.com/ibrahimkobe/LinearSearch)
   - [Binary Search]()
   - [Array List]()
 - <b>Adalo Web App </b>
