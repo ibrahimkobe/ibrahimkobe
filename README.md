@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ibrahim! <br/><a href="https://www.linkedin.com/in/ibrahim-abukobe/">Cybersecurity Student</a>, <a href="https://github.com/ibrahimkobe">Programmer</a>
+<h1>Hi, I'm Ibrahim! <br/><a href="https://www.linkedin.com/in/ibrahim-abukobe/">Cybersecurity Professional</a>, <a href="https://github.com/ibrahimkobe">Programmer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
