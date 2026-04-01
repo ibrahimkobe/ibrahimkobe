@@ -4,7 +4,7 @@
 
 - <b>Cisco Packet Tracer </b>
   - [Basic Networking Topology]()
-  - [Switch Port-Security](README.md)
+  - [Switch Port-Security](https://github.com/ibrahimkobe/Switch-Port-Security)
   - []()
 
 - <b>Data Structures and Algorithms </b>
