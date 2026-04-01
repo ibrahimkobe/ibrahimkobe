@@ -9,8 +9,8 @@
 
 - <b>Data Structures and Algorithms </b>
   - [Linear Search](https://github.com/ibrahimkobe/LinearSearch)
-  - [Binary Search]()
-  - [Array List]()
+  - [Binary Search](https://github.com/ibrahimkobe/Binary-Search)
+  - [Array List](https://github.com/ibrahimkobe/ArrayList)
 - <b>Adalo Web App </b>
   - [StyleUp Website](https://github.com/ibrahimkobe/StyleUp-Salon)
  
