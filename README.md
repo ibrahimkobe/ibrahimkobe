@@ -12,7 +12,7 @@
   - [Binary Search]()
   - [Array List]()
 - <b>Adalo Web App </b>
-  - [StyleUp Website]()
+  - [StyleUp Website](https://github.com/ibrahimkobe/StyleUp-Salon)
  
 <h2>📜 Certifications:</h2>
 
