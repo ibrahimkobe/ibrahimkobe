@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cisco Packet Tracer </b>
-  - [Basic Networking Topology](https://github.com/ibrahimkobe/Basic-Networking-Topology)
+  - [ConnectX Topology](https://github.com/ibrahimkobe/Basic-Networking-Topology)
   - [Switch Port-Security](https://github.com/ibrahimkobe/Switch-Port-Security)
   - []()
 
