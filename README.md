@@ -12,6 +12,7 @@
   - [Binary Search](https://github.com/ibrahimkobe/Binary-Search)
   - [Array List](https://github.com/ibrahimkobe/ArrayList)
   - [Linked List](https://github.com/ibrahimkobe/LinkedList)
+  - [Doubly Linked List](https://github.com/ibrahimkobe/Doubly-Linkedlist)
     
 - <b>Adalo Web App </b>
   - [StyleUp Website](https://github.com/ibrahimkobe/StyleUp-Salon)
