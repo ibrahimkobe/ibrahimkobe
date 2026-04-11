@@ -5,6 +5,7 @@
 - <b>Cisco Packet Tracer </b>
   - [ConnectX Topology](https://github.com/ibrahimkobe/Basic-Networking-Topology)
   - [Switch Port-Security](https://github.com/ibrahimkobe/Switch-Port-Security)
+  - [Inter-VLAN Routing](https://github.com/ibrahimkobe/VLan-routing)
   
 - <b>Data Structures and Algorithms </b>
   - [Linear Search](https://github.com/ibrahimkobe/LinearSearch)
