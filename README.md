@@ -7,6 +7,7 @@
   - [Switch Port-Security](https://github.com/ibrahimkobe/Switch-Port-Security)
   - [Inter-VLAN Routing](https://github.com/ibrahimkobe/VLan-routing)
   - [Standard ACL](https://github.com/ibrahimkobe/Standard-ACL)
+  - [Extended ACL](https://github.com/ibrahimkobe/Extended-ACL)
   
 - <b>Data Structures and Algorithms </b>
   - [Linear Search](https://github.com/ibrahimkobe/LinearSearch)
