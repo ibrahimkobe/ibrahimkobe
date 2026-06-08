@@ -3,6 +3,8 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cisco Packet Tracer </b>
+
+  - [NeuroGrid Dynamics](https://github.com/ibrahimkobe/NeuroGrid-Dynamics/blob/main/README.md)
   - [ConnectX Topology](https://github.com/ibrahimkobe/Basic-Networking-Topology)
   - [Switch Port-Security](https://github.com/ibrahimkobe/Switch-Port-Security)
   - [Inter-VLAN Routing](https://github.com/ibrahimkobe/VLan-routing)
