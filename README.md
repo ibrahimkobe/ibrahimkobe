@@ -47,6 +47,7 @@ I'm a **Cybersecurity & Networking professional** with hands-on experience in Ci
 
 | Project | Description |
 |---|---|
+| [Degree Planner System](https://github.com/ibrahimkobe/Degree-Planner-System) | A console-based Java system that plans students through their degree |
 | [Linear Search](https://github.com/ibrahimkobe/LinearSearch) | Sequential element search |
 | [Binary Search](https://github.com/ibrahimkobe/Binary-Search) | Efficient sorted-array search |
 | [Array List](https://github.com/ibrahimkobe/ArrayList) | Dynamic array implementation |
