@@ -63,6 +63,12 @@ I'm a **Cybersecurity & Networking professional** with hands-on experience in Ci
 
 ---
 
+### 📊 Data Science
+
+| Project | Description |
+|---|---|
+| [MyHakeem Health Care Organization](https://github.com/ibrahimkobe/MyHakeem) | Data Science & Business Intelligence Analysis |
+
 ## 📜 Certifications
 
 <p>
