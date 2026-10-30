@@ -79,6 +79,9 @@ I'm a **Cybersecurity & Networking professional** with hands-on experience in Ci
   <a href="https://github.com/ibrahimkobe/ICCA">
     <img src="https://img.shields.io/badge/ICCA-Certified-0277BD?style=for-the-badge&logo=icloud&logoColor=white"/>
   </a>
+  <a href="https://github.com/ibrahimkobe/eCPPTv3">
+    <img src="https://img.shields.io/badge/eJPTv2-Certified-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  </a>
 </p>
 
 ---
