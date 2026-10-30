@@ -70,6 +70,15 @@ I'm a **Cybersecurity & Networking professional** with hands-on experience in Ci
 |---|---|
 | [MyHakeem Health Care Organization](https://github.com/ibrahimkobe/MyHakeem) | Data Science & Business Intelligence Analysis |
 
+---
+
+### 🗒️ Notes
+- [eJptv2 Notes](https://github.com/ibrahimkobe/Ejpt-notes)
+- [ICCA_Notes](https://github.com/ibrahimkobe/ICCA_Notes)
+- [eCPPTv3_Notes](https://github.com/ibrahimkobe/eCPPTv3_Notes)
+- [Netwrok-Security_Labs](https://github.com/ibrahimkobe/Network-Security_Labs)
+- [Networking_Labs](https://github.com/ibrahimkobe/Networking_Labs) 
+
 ## 📜 Certifications
 
 <p>
@@ -83,15 +92,6 @@ I'm a **Cybersecurity & Networking professional** with hands-on experience in Ci
     <img src="https://img.shields.io/badge/eCPPTv3-Certified-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimkobe&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkobe&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</div>
 
 ---
 
