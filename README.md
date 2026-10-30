@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=IBRAHIM%20ABUKOBE&fontSize=40&fontColor=00FF9C&animation=fadeIn&fontAlignY=45&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Network%20Security&descSize=15&descColor=8B949E&descAlignY=72" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Ibr4h1mm&fontSize=40&fontColor=00FF9C&animation=fadeIn&fontAlignY=45&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Network%20Security&descSize=15&descColor=8B949E&descAlignY=72" alt="Header" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami;cybersecurity+student+%40+HTU;%24+cat+certs.txt;eJPTv2+%7C+eCPPTv3+%7C+ICCA;%24+nmap+-sV+target;%24+echo+%22always+learning%22" alt="Typing SVG" />
 
