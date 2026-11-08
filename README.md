@@ -34,8 +34,7 @@ name        : Ibrahim Abukobe
 location    : Amman, Jordan
 education   : B.Sc. Cybersecurity, Al-Hussein Technical University (HTU), 2024 - 2028
 focus       : Offensive Security, Penetration Testing, Network Security
-background  : Cisco network design, VLANs, IPsec VPN, ACLs, AAA
-certs       : eJPTv2, eCPPTv3, ICCA
+certs       : CRTP,eCPPTv3, eJPTv2 ,ICCA
 learning    : Java, Python, Linux
 HTB         : Ibr4h1mm
 status      : open to internships and collaboration
