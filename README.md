@@ -81,9 +81,11 @@ platforms   : Linux | Cisco Packet Tracer | Git/GitHub
 ## certifications
 
 <p>
-  <a href="https://github.com/ibrahimkobe/Ejptv2"><img src="https://img.shields.io/badge/eJPTv2-Junior_Penetration_Tester-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="eJPTv2"/></a>
+  <a href="https://github.com/ibrahimkobe/CRTP"><img src="https://img.shields.io/badge/CRTP-Certified_Red_Team_Professional-0D1117?style=for-the-badge&logo=windows&logoColor=00FF9C" alt="CRTP"/></a>
   <a href="https://github.com/ibrahimkobe/eCPPTv3"><img src="https://img.shields.io/badge/eCPPTv3-Professional_Penetration_Tester-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="eCPPTv3"/></a>
+  <a href="https://github.com/ibrahimkobe/Ejptv2"><img src="https://img.shields.io/badge/eJPTv2-Junior_Penetration_Tester-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9C" alt="eJPTv2"/></a>
   <a href="https://github.com/ibrahimkobe/ICCA"><img src="https://img.shields.io/badge/ICCA-Certified-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF9C" alt="ICCA"/></a>
+  
 </p>
 
 ---
